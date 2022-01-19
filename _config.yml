@@ -14,6 +14,6 @@ gplus_username:  hehe
 
 # Google-analytics
 google-analytics:
-  id: "217571438"
+  id: "299950535"
 
 exclude: ['package.json', 'src' , 'node_modules']
